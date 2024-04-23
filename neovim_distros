@@ -10,4 +10,5 @@ readonly neovim_distros=(
   "launch     | LunarVim/Launch.nvim    | default"
   "LazyVim    | LazyVim/starter         | default"
   "NormalNvim | NormalNvim/NormalNvim   | default"
+  "KJV        | Traap/nvim              | default"
 )
